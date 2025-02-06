@@ -34,15 +34,15 @@ The **interactive dashboard**, built using **Excel**, visualises energy consumpt
 
 ## Key Insights & Recommendations  
 
-✅ **Biomass is the dominant renewable energy source** → Invest in sustainable biomass production to maintain growth.  
-✅ **Electric Power sector drives consumption** → Strengthen policies supporting clean energy grid integration.  
-✅ **Solar & Wind energy have lower contributions** → Increase investments in solar and wind infrastructure to diversify energy sources.  
-✅ **Hydroelectric energy remains untapped** → Explore policies promoting hydro energy utilization.  
-✅ **Seasonal peaks in Q2 & Q4** → Implement strategic storage and distribution policies to balance supply-demand fluctuations.  
+ **Biomass is the dominant renewable energy source** → Invest in sustainable biomass production to maintain growth.  
+ **Electric Power sector drives consumption** → Strengthen policies supporting clean energy grid integration.  
+ **Solar & Wind energy have lower contributions** → Increase investments in solar and wind infrastructure to diversify energy sources.  
+ **Hydroelectric energy remains untapped** → Explore policies promoting hydro energy utilization.  
+ **Seasonal peaks in Q2 & Q4** → Implement strategic storage and distribution policies to balance supply-demand fluctuations.  
 
 ---
 
-## 📌 Conclusion  
+## Conclusion  
 
 The analysis highlights the growing role of **renewable energy in the US energy landscape**, with **Biomass and Electric Power leading adoption**. The steady **25% growth rate** indicates a positive transition, but further investments in **solar, wind, and hydro energy** can **enhance sustainability and resilience**.  
 
@@ -53,22 +53,22 @@ The analysis highlights the growing role of **renewable energy in the US energy 
 
 ---
 
-## ⚡ Technologies Used  
-- **📊 Power BI** – Data Visualization & Dashboarding  
-- **🐍 Python** – Data Cleaning & Analysis (Pandas, Matplotlib)  
-- **📂 SQL** – Data Extraction & Transformation  
-- **📈 Excel** – Initial Data Processing & Exploratory Analysis  
+## Technologies Used  
+- ** Power BI** – Data Visualization & Dashboarding  
+- ** Python** – Data Cleaning & Analysis (Pandas, Matplotlib)  
+- ** SQL** – Data Extraction & Transformation  
+- ** Excel** – Initial Data Processing & Exploratory Analysis  
 
 ---
 
-## 📩 Contact & Collaboration  
+## Contact & Collaboration  
 
 Interested in collaborating on **data analytics, market intelligence, or AI-driven insights**? Let’s connect!  
 
-- **📧 Email**: [akinolamofe2@gmail.com](mailto:akinolamofe2@gmail.com)  
-- **💼 LinkedIn**: [linkedin.com/in/moferanoluwa-akinola](#)  
-- **🚀 GitHub**: [github.com/moferanoluwa](#)  
+- **Email**: [akinolamofe2@gmail.com](mailto:akinolamofe2@gmail.com)  
+- **LinkedIn**: [www.linkedin.com/in/mofe-akinola-6a8934160](#)  
+- **GitHub**: [https://github.com/Mofeeakin](#)  
 
 ---
 
-### ⭐ **If you found this project useful, don't forget to star the repository!**
+### **If you found this project useful, don't forget to star the repository!**
