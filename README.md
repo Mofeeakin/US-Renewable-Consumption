@@ -5,6 +5,8 @@ This project analyses **US Renewable Energy Consumption** trends from **2015 to 
 
 The **interactive dashboard**, built using **Excel**, visualises energy consumption patterns across different sectors, highlighting renewable sources such as biomass, solar, wind, and geothermal energy.  
 
+![https://github.com/Mofeeakin/US-Renewable-Consumption/blob/561cdc62ac6002931fd36cd2e7dff64547431d05/Energy%20Usage%20Dashboard.png)
+
 ---
 
 ## Key Metrics  
